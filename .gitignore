@@ -1,0 +1,8 @@
+.vscode
+.idea
+flask_bootstrapper_env
+
+build
+dist
+
+flask_bootstrapper.egg*
