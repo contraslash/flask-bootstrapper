@@ -8,9 +8,10 @@ def readme():
 
 setup(
     name='flask_bootstrapper',
-    version='0.0.1',
+    version='0.0.2',
     description='A simple bootstrapper for flask applications',
     long_description=readme(),
+    long_description_content_type="text/markdown",
     url='http://github.com/contraslash/flask-bootstrapper',
     keywords='flask bootstrapping tool',
     author='contraslash S.A.S.',
@@ -33,4 +34,3 @@ setup(
         'Contraslash': 'https://contraslash.com/'
     },
 )
- 

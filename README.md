@@ -1,7 +1,7 @@
 # Flask Bootstrapper
 
 This is a simple flask project generator, also creates an blueprint schema based on
-a scalable file architecture used at [contralshas](https://contraslash.com/)
+a scalable file architecture used at [contraslash](https://contraslash.com/)
 
 To use this generator
 
