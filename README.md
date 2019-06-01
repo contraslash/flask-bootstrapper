@@ -1,5 +1,9 @@
 # Flask Bootstrapper
 
+## UNMANTAINED
+
+The idea of have a django like application writted in Flask is against the principles of the microframework
+
 This is a simple flask project generator, also creates an blueprint schema based on
 a scalable file architecture used at [contraslash](https://contraslash.com/)
 
